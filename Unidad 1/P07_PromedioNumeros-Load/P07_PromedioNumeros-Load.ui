@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(85, 170, 0);</string>
+   <string notr="true">background-color: rgb(170, 0, 255);</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="btn_Agregar">
@@ -37,9 +37,8 @@
      <enum>Qt::LeftToRight</enum>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(170, 85, 255);
-background-color: rgb(255, 170, 0);
-color: rgb(255, 255, 255);
+     <string notr="true">background-color: rgb(129, 243, 255);
+color: rgb(0, 0, 0);
 border-radius: 25px;
 border:  5px solid black;</string>
     </property>
@@ -73,7 +72,7 @@ border:  5px solid black;</string>
      <enum>Qt::LeftToRight</enum>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(85, 170, 255);
+     <string notr="true">background-color: rgb(255, 255, 0);
 border-radius:20px;
 border:  5px solid black;</string>
     </property>
@@ -97,7 +96,7 @@ border:  5px solid black;</string>
      <enum>Qt::LeftToRight</enum>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(85, 170, 255);
+     <string notr="true">background-color: rgb(255, 255, 0);
 border-radius:20px;
 border:  5px solid black;</string>
     </property>
@@ -141,9 +140,8 @@ border:  5px solid black;</string>
      <enum>Qt::LeftToRight</enum>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(170, 85, 255);
-background-color: rgb(255, 170, 0);
-color: rgb(255, 255, 255);
+     <string notr="true">background-color: rgb(129, 243, 255);
+color: rgb(0, 0, 0);
 border-radius: 25px;
 border:  5px solid black;</string>
     </property>
@@ -171,9 +169,8 @@ border:  5px solid black;</string>
      <enum>Qt::LeftToRight</enum>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(170, 85, 255);
-background-color: rgb(255, 170, 0);
-color: rgb(255, 255, 255);
+     <string notr="true">background-color: rgb(129, 243, 255);
+color: rgb(0, 0, 0);
 border-radius: 25px;
 border:  5px solid black;</string>
     </property>
